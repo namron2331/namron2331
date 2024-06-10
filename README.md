@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate from The University of Texas at San Antonio with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
