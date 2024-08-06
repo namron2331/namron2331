@@ -13,7 +13,7 @@ My journey in information technology has ignited a passion for cybersecurity, an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/namron2331/Detection-Lab/tree/main">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/namron2331/Detection-Lab/tree/main">Event Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
