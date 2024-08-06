@@ -14,7 +14,7 @@ My journey in information technology has ignited a passion for cybersecurity, an
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/namron2331/Detection-Lab/tree/main">Event Analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Forensics Analysis and Intrusion Detection | <a href="https://google.com">Malware Analysis</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
