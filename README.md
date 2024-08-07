@@ -15,7 +15,7 @@ My journey in information technology has ignited a passion for cybersecurity, an
 |-----------------------------------------------|----------------------------|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/namron2331/Event-Analysis/tree/main">Event Analysis</a>|
 | Network Forensics Analysis and Intrusion Detection | <a href="https://google.com">Malware Analysis</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://google.com">Hunting In Memory</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
