@@ -1,8 +1,8 @@
 # Hello, I'm Norman
 <a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a cybersecurity enthusiast with a solid background in network security, threat analysis, and vulnerability assessment. I hold a Bachelor of Business Administration in Cybersecurity and have gained hands-on experience through various cybersecurity projects. My goal is to continuously enhance my skills and make meaningful contributions to the field of cybersecurity.
 
-I am a recent graduate from The University of Texas at San Antonio with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
