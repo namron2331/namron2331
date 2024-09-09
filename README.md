@@ -31,7 +31,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
          alt="tcpdump Badge" 
          style="max-width: 100px; height: auto;">
     <img src="https://github.com/namron2331/namron2331/blob/f9d30f15402dad02d790cd1eb70f4d5122b14096/images/snort.png" width="75" height="75" alt="" />
-    <img src="https://img.shields.io/badge/-NetworkMiner-0078D6?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
+    <img src="https://github.com/namron2331/namron2331/blob/a023f24d3326aa0c86488a28c0b4fa78b113376b/images/network-miner.png" />
 </div>
 
 ### Forensic
