@@ -30,7 +30,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" 
          alt="tcpdump Badge" 
          style="max-width: 100px; height: auto;">
-    <img src="https://github.com/namron2331/namron2331/blob/f9d30f15402dad02d790cd1eb70f4d5122b14096/images/snort.png" />
+    <img src="https://github.com/namron2331/namron2331/blob/f9d30f15402dad02d790cd1eb70f4d5122b14096/images/snort.png" width="200" height="100" alt="" />
     <img src="https://img.shields.io/badge/-NetworkMiner-0078D6?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
 </div>
 
