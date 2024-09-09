@@ -68,7 +68,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ## Education
 <div>
-        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/University_of_Texas_at_San_Antonio_seal.svg/800px-University_of_Texas_at_San_Antonio_seal.svg.png" /></a>
+        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"<img src="https://logos-world.net/wp-content/uploads/2023/08/UTSA-Seal-Logo.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 3840px; height: 243px; margin: 306px 0px; width: 432px;" alt="UTSA Logo, symbol, meaning, history, PNG, brand" jsname="kn3ccd" aria-hidden="false">"false"></a>
 
 </div>
 
