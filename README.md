@@ -33,6 +33,8 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
     <img src="https://img.shields.io/badge/-Snort-00A3E0?&style=for-the-badge&logo=snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDUMP-0078D6?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-SNORT-FF0000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-0078D6?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy-FFA07A?&style=for-the-badge&logo=Autopsy&logoColor=white" />
 </div>
 
 ### Forensic
