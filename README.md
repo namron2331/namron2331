@@ -31,20 +31,16 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-SNORT-FF0000?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-NetworkMiner-0078D6?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
-    <img src="https://img.shields.io/badge/Network%20Miner-0099FF?style=for-the-badge&logo=network-wired&logoColor=white" />
-
 </div>
 
 ### Forensic
 <div>
     <img src="https://img.shields.io/badge/-Autopsy-0056A3?&style=for-the-badge&logo=autopsy&logoColor=white" />
-
 </div>
 
 ### NIDS (Network Intrusion Detection System)
 <div>
         <img src="https://img.shields.io/badge/-Snort-00A3E0?&style=for-the-badge&logo=snort&logoColor=white" />
-
 </div>
 
 
