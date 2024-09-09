@@ -27,10 +27,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 <div>
 <img src="https://github.com/namron2331/namron2331/blob/b398a07224be398edaac992db800fe64f829d42a/images/wireshark-logo.png" alt="wireshark">
 
-<div style="display: flex; gap: 10px; align-items: center; margin: 20px 0;">
-    <img src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" 
-         alt="Unveiling the Power of the Nmap Framework in Linux: A Comprehensive Guide" 
-         style="max-width: 150px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="images/sitelogo.png" alt="nmap">
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" 
          alt="tcpdump Badge" 
          style="max-width: 100px; height: auto;">
