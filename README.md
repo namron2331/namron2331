@@ -21,7 +21,6 @@ My journey in information technology has ignited a passion for cybersecurity, an
 | Event Analysis | PCAP Dissection Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
