@@ -25,6 +25,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
+<img src="wireshark-logo.png" alt="wireshark">
 
 <div style="display: flex; gap: 10px; align-items: center; margin: 20px 0;">
     <img src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" 
