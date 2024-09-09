@@ -8,8 +8,7 @@ I am a cybersecurity enthusiast with a solid background in network security, thr
 
 ## Objective
 
-To leverage my passion for cybersecurity and expertise in threat detection and incident response to secure a position as a SOC Analyst or similar role, where I can contribute to the protection from cyber threats, sensitive information and defense of complex networks and systems.
-
+To apply my passion for cybersecurity and expertise in threat detection and incident response as a SOC Analyst or similar role, protecting sensitive information and defending complex networks and systems against cyber threats.
 ## Skills
 
 | Skill                                         | Associated Project         |
