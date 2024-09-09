@@ -29,7 +29,6 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
     <img src="https://img.shields.io/badge/-Netstat-4B8BF5?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDUMP-0078D6?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-SNORT-FF0000?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-NetworkMiner-0078D6?&style=for-the-badge&logo=NetworkMiner&logoColor=white" />
 </div>
