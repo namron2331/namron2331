@@ -25,7 +25,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
-<img src="https://ccie-or-null.net/wp-content/uploads/2015/04/wireshark.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 204px; height: 47px; margin: 154px 0px; width: 232px;" alt="Wireshark | CCIE or Null!" jsname="kn3ccd" aria-hidden="false">   
+<img src="https://ccie-or-null.net/wp-content/uploads/2015/04/wireshark.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 204px; height: 47px; margin: 154px 0px; width: 232px;" alt="Wireshark | CCIE or Null!" jsname="kn3ccd" aria-hidden="false"/>
     <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-SNORT-FF0000?&style=for-the-badge" />
