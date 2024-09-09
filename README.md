@@ -61,9 +61,8 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 <div>
     <img src="https://img.shields.io/badge/-CompTIA%20ITF%2B-FF6C00?&style=for-the-badge&logo=compTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />    
     <a href="https://coursera.org/share/fcd53852015dcd6b9d3ad0eae9db2b2d"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/STK8RQJQ3SJI"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+    <a href="https://coursera.org/share/fcd53852015dcd6b9d3ad0eae9db2b2d"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 
 </div>
 
