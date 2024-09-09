@@ -25,7 +25,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
-    ![image alt] (images/wireshark-logo.png)
+    ![wireshark](https://github.com/namron2331/namron2331/blob/c6f4c8a26aed89df0df533a79f7a3448b93fca78/images/wireshark-logo.png)
 <div style="display: flex; gap: 10px; align-items: center; margin: 20px 0;">
     <img src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" 
          alt="Unveiling the Power of the Nmap Framework in Linux: A Comprehensive Guide" 
