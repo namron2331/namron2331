@@ -27,7 +27,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 <div>
 <img src="https://ccie-or-null.net/wp-content/uploads/2015/04/wireshark.png" 
      alt="Wireshark Logo" 
-     style="display: block; max-width: 150px; height: auto; margin: 20px auto; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+     style="display: block; max-width: 100px; height: auto; margin: 20px auto; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
     
 <img src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 476px; height: 186px; margin: 184.5px 0px; width: 132px;" alt="Unveiling the Power of the Nmap Framework in Linux: A Comprehensive Guide |  by TechLatest.Net | Medium" jsname="kn3ccd" aria-hidden="false">    <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" />
