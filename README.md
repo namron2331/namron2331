@@ -68,7 +68,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ## Education
 <div>
-        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbtXn08V4oAeXl0R849hG34bWwGJyQSNhAc_9KlMnOjAi9s-IHExqLduQ9lY2FQtOFuQ&amp;usqp=CAU" class="rg_i Q4LuWd" jsname="Q4LuWd" width="191" height="125" alt="University of San Antonio - Home" data-noaft="1" data-ilt="1725900552059">" /></a>
+        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbtXn08V4oAeXl0R849hG34bWwGJyQSNhAc_9KlMnOjAi9s-IHExqLduQ9lY2FQtOFuQ&amp;usqp=CAU" class="rg_i Q4LuWd" jsname="Q4LuWd" width="191" height="125" alt="University of San Antonio - Home" data-noaft="1" data-ilt="1725900552059" /></a>
 
 </div>
 
