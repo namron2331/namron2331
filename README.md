@@ -25,11 +25,11 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
-    <img src="https://github.com/namron2331/namron2331/blob/main/images/wireshark-logo.png?raw=true" width="125" height="50" alt="">
+    <img src="https://github.com/namron2331/namron2331/blob/main/images/wireshark-logo.png?raw=true" width="150" height="50" alt="">
     <img src="images/sitelogo.png" alt="nmap" width="125" height="75" alt="">
     <img src="https://github.com/namron2331/namron2331/blob/f9d30f15402dad02d790cd1eb70f4d5122b14096/images/snort.png" width="75" height="75" alt="" />
     <img src="https://github.com/namron2331/namron2331/blob/a023f24d3326aa0c86488a28c0b4fa78b113376b/images/network-miner.png" width="150" height="50" alt="" /> 
-    <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" width="150" height="50" alt="" />
+    <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" width="100" height="50" alt="" />
 </div>
 
 ### Forensic
