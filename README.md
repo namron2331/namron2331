@@ -26,6 +26,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%20Miner-4CAF50?&style=for-the-badge&logo=networkminer&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
