@@ -6,7 +6,7 @@ I am a cybersecurity enthusiast with a solid background in network security, thr
 
 ## Objective
 
-My journey in information technology has ignited a passion for cybersecurity, and I am now eager to transition into this field. I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information technology has ignited a passion for cybersecurity, and I am now eager to transition into this field. I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst. As an aspiring cybersecurity professional, I am eager to leverage my foundational knowledge and enthusiasm for the field to tackle real-world security challenges. With a background in network security, threat analysis, and vulnerability assessment, I aim to build a solid career in cybersecurity by continually enhancing my skills and contributing to effective security solutions. My goal is to gain hands-on experience through meaningful projects and collaborate with industry experts to grow as a proficient cybersecurity specialist.
 
 ## Skills
 
