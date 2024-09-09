@@ -35,7 +35,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 ### Forensic
 <div>
     
-<img src="images/autopsy-logo.svg" />
+<img src="images/autopsy-logo.svg" width="150" height="50" alt="" />
 </div>
 
 ### NIDS (Network Intrusion Detection System)
