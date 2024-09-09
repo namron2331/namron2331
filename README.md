@@ -1,6 +1,8 @@
 # Hello, I'm Norman
 <a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Welcome to my cybersecurity portfolio! Here you'll find a collection of my projects, skills, and experience in the field of cybersecurity. This portfolio showcases my knowledge and hands-on experience in various areas such as network security, incident response, ethical hacking, and more.
+
 I am a cybersecurity enthusiast with a solid background in network security, threat analysis, and vulnerability assessment. I hold a Bachelor of Business Administration in Cybersecurity and have gained hands-on experience through various cybersecurity projects. My goal is to continuously enhance my skills and make meaningful contributions to the field of cybersecurity.
 
 
