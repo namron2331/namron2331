@@ -68,7 +68,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ## Education
 <div>
-        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://i.pinimg.com/736x/c8/dc/6c/c8dc6c379e96b7a07561122101d912f6.jpg"></a>
+        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmoR68YM2gkImUjsd8jjbKnphv4vAxFXLmxw&amp;s"></a>
 
 </div>
 
