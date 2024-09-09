@@ -25,11 +25,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
-<img src="https://ccie-or-null.net/wp-content/uploads/2015/04/wireshark.png" 
-     alt="Wireshark Logo" 
-     style="display: block; max-width: 75px; height: auto; margin: 10px auto; border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-
-    
+    <img alt="Wireshark logo" src="/assets/img/wireshark-logo.png" height="40px" width="150px">
 <div style="display: flex; gap: 10px; align-items: center; margin: 20px 0;">
     <img src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" 
          alt="Unveiling the Power of the Nmap Framework in Linux: A Comprehensive Guide" 
