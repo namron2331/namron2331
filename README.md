@@ -9,7 +9,6 @@ I am a recent graduate from The University of Texas at San Antonio with a profou
 My journey in information technology has ignited a passion for cybersecurity, and I am now eager to transition into this field. I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
