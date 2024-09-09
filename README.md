@@ -25,7 +25,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
-    <img alt="Wireshark logo" src="/assets/img/wireshark-logo.png" height="40px" width="150px"/>
+<img src="https://paldan.altervista.org/wp-content/uploads/2016/06/wireshark.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 731px; height: 117px; margin: 369px 0px; width: 432px;"/>    
     <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-SNORT-FF0000?&style=for-the-badge" />
