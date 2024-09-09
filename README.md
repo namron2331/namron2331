@@ -68,7 +68,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ## Education
 <div>
-        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/University_of_Texas_at_San_Antonio_seal.svg/800px-University_of_Texas_at_San_Antonio_seal.svg.png"></a>
+        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/University_of_Texas_at_San_Antonio_seal.svg/800px-University_of_Texas_at_San_Antonio_seal.svg.png" style="max-width: 800px; height: 432px; margin: 211.5px 0px; width: 432px;"></a>
 
 </div>
 
