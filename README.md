@@ -25,7 +25,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 ### Network
 <div>
-    <img src="https://github.com/namron2331/namron2331/blob/main/images/wireshark-logo.png?raw=true" width="125" height="50" alt="">
+    <img src="https://github.com/namron2331/namron2331/blob/main/images/wireshark-logo.png?raw=true" [width="125" height="50" alt=""](https://github.com/namron2331/namron2331/blob/a023f24d3326aa0c86488a28c0b4fa78b113376b/images/network-miner.png)>
     <img src="images/sitelogo.png" alt="nmap" width="125" height="75" alt="">
     <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" 
          alt="tcpdump Badge" 
