@@ -66,10 +66,9 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 </div>
 
-## Certifications
+## Education
 <div>
-        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="<img src="https://img.shields.io/badge/University%20of%20Texas%20at%20San%20Antonio-003D34?style=for-the-badge&logo=university&logoColor=white" />
-" /></a>
+        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 
 </div>
 
