@@ -1,81 +1,267 @@
-# Hello, I'm Norman
-<a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Norm</title>
 
-Welcome! Here you'll find a collection of my projects, skills, and experience in the field of cybersecurity. This portfolio showcases my knowledge and hands-on experience in various areas such as network security, incident response, ethical hacking, and more.
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="https://fontawesome.com/">
 
-I am a cybersecurity enthusiast with a solid background in network security, threat analysis, and vulnerability assessment. I hold a Bachelor of Business Administration in Cybersecurity and have gained hands-on experience through various cybersecurity projects. My goal is to continuously enhance my skills and make meaningful contributions to the field of cybersecurity.
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="style.css">
 
-
-## Objective
-
-To apply my passion for cybersecurity and expertise in threat detection and incident response as a SOC Analyst or similar role, protecting sensitive information and defending complex networks and systems against cyber threats.
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/namron2331/Event-Analysis/tree/main">Event Analysis</a>|
-| Network Forensics Analysis and Intrusion Detection | <a href="https://google.com">Malware Analysis</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Hunting in Memory</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Event Analysis | PCAP Dissection Lab|
-
-## Tools
-
-### Network
-<div>
-    <img src="images/sitelogo.png" alt="nmap" width="100" height="50" alt="">
-    <img src="https://github.com/namron2331/namron2331/blob/a023f24d3326aa0c86488a28c0b4fa78b113376b/images/network-miner.png" width="150" height="40" alt="" /> 
-    <img src="https://github.com/namron2331/namron2331/blob/main/images/wireshark-logo.png?raw=true" width="150" height="40" alt="">
-    <img src="https://img.shields.io/badge/-tcpdump-FF5500?&style=for-the-badge&logo=linux&logoColor=white" width="100" height="30" alt="" />
-</div>
-
-### Forensic
-<div>
+</head>
+<body>
     
-<img src="images/autopsy-logo.svg" width="150" height="50" alt="" />
-</div>
+<!-- header section starts  -->
 
-### NIDS (Network Intrusion Detection System)
-<div>
-    <img src="https://github.com/namron2331/namron2331/blob/f9d30f15402dad02d790cd1eb70f4d5122b14096/images/snort.png" width="75" height="75" alt="" />
+<header>
 
-</div>
+    <div class="user">
+        <img src="images/me.JPG" alt="">
+        <h3 class="name">Norman Renteria</h3>
+        <p class="post">Entry-Level IT & Cybersecurity Professional | Recent Graduate | Veteran</p>
+    </div>
 
+    <nav class="navbar">
+        <ul>
+            <li><a href="#home">home</a></li>
+            <li><a href="#about">about</a></li>
+            <li><a href="#education">education</a></li>
+            <li><a href="#portfolio">portfolio</a></li>
+            <li><a href="#contact">contact</a></li>
+        </ul>
+    </nav>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+</header>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<!-- header section ends -->
 
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-CompTIA%20ITF%2B-FF6C00?&style=for-the-badge&logo=compTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <a href="https://coursera.org/share/e6b665c16bd54981c8de5e8b2777b639"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
-    <a href="https://coursera.org/share/fcd53852015dcd6b9d3ad0eae9db2b2d"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+<div id="menu" class="fas fa-bars"></div>
 
-</div>
+<!-- home section starts  -->
 
-## Education
-<div>
-    <p>The University of Texas at San Antonio</p>
-    <p>B.B.A. in Cyber Security</p>
+<section class="home" id="home">
+
+    <h3>HI THERE !</h3>
+    <h1>I'M <span>Norman</span></h1>
+    <p> Welcome! Here you'll find a collection of my projects, skills, and experience in the field of cybersecurity. 
+        This portfolio showcases my knowledge and hands-on experience in various areas such as network security, incident response, ethical hacking, and more.
+        </p>
+     <p>I am a cybersecurity enthusiast with a solid background in network security, threat analysis, and vulnerability assessment. I hold a Bachelor of Business Administration in Cybersecurity and have gained hands-on experience through various cybersecurity projects. 
+        My goal is to continuously enhance my skills and make meaningful contributions to the field of cybersecurity.
     
-        
-<a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/University_of_Texas_at_San_Antonio_seal.svg/800px-University_of_Texas_at_San_Antonio_seal.svg.png" style="max-width: 400px;             height: 100px; margin: 111.5px 0px; width: 100px;"></a>
+    </p>
+    <a href="#about"><button class="btn">about me <i class="fas fa-user"></i></button></a>
+
+</section>
+
+<!-- home section ends -->
+
+<!-- about section starts  -->
+
+<section class="about" id="about">
+
+<h1 class="heading"> <span>about</span> me </h1>
+
+<div class="row">
+
+    <div class="info">
+        <h3> <span> name : </span> Norman Renteria </h3>
+        <h3> <span> age : </span> 38 </h3>
+        <h3> <span> qualification : </span> BA Cyber Security </h3>
+        <h3> <span> post : </span> front end developer </h3>
+        <h3> <span> language : </span> English and Spanish </h3>
+        <a href="images/CV.pdf" target="_blank"><button class="btn"> Download Resume <i class="fas fa-download"></i> </button></a>
+    </div>
+
+    <div class="counter">
+
+        <div class="box">
+            <span>2+</span>
+            <h3>months of experience</h3>
+        </div>
+
+        <div class="box">
+            <span>1+</span>
+            <h3>project completed</h3>
+        </div>
+
+        <div class="box">
+            <span>1+</span>
+            <h3>happy clients</h3>
+        </div>
+
+        <div class="box">
+            <span>12+</span>
+            <h3>awards won</h3>
+        </div>
+
+    </div>
 
 </div>
 
-## Projects
-- <a href="https://github.com/namron2331/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+</section>
+
+<!-- about section ends -->
+
+<!-- education section starts  -->
+
+<section class="education" id="education">
+
+<h1 class="heading"> my <span>education</span> </h1>
+
+<div class="box-container">
+
+    <!--<div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>2016</span>
+        <h3>front end development</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quos alias praesentium. Id autem provident laborum quae, distinctio eaque temporibus!</p>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>2017</span>
+        <h3>front end development</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quos alias praesentium. Id autem provident laborum quae, distinctio eaque temporibus!</p>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>2018</span>
+        <h3>front end development</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quos alias praesentium. Id autem provident laborum quae, distinctio eaque temporibus!</p>
+    </div>-->
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>2003</span>
+        <h3>Santa Teresa High School</h3>
+        <p>General Study</p>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>2017</span>
+        <h3>San Antonio College</h3>
+        <p>Computer Science</p>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-graduation-cap"></i>
+        <span>2024</span>
+        <h3>University of Texad at San Antonio</h3>
+        <p>Cyber Security</p>
+        <a href="https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/University_of_Texas_at_San_Antonio_seal.svg/800px-University_of_Texas_at_San_Antonio_seal.svg.png" 
+            style="max-width: 400px; height: 150px; margin: 111.5px 0px; width: 150px;"></a>
+    </div>
+</div>
+
+</section>
+
+<!-- education section ends -->
+
+<!-- portfolio section starts  -->
+
+<section class="portfolio" id="portfolio">
+
+<h1 class="heading"> my <span>portfolio</span> </h1>
+
+<div class="box-container">
+
+    <div class="box">
+        <a href="/pcap" target="_blank"
+         rel="noopener noreferrer" class="box"><img src="images/pcap.png" alt=""></a>
+    </div>
+
+    <div class="box">
+        <a href="/backdoor" target="_blank"
+         rel="noopener noreferrer" class="box"><img src="images/backdoor.png" alt=""></a>
+    </div>
+
+    <div class="box">
+        <a href="/huntinginmemory" target="_blank"
+         rel="noopener noreferrer" class="box"><img src="images/huntinginmemory.png" alt=""></a>
+    </div>
+
+    <div class="box">
+        <img src="images/img4.jpg" alt="">
+    </div>
+
+    <div class="box">
+        <img src="images/img5.jpg" alt="">
+    </div>
+
+    <div class="box">
+        <img src="images/img6.jpg" alt="">
+    </div>
+
+</div>
+
+</section>
+
+<!-- portfolio section ends -->
+
+<!-- contact section starts  -->
+
+<section class="contact" id="contact">
+
+<h1 class="heading"> <span>contact</span> me </h1>
+
+<div class="row">
+
+    <div class="content">
+
+        <h3 class="title">contact info</h3>
+
+        <div class="info">
+            <h3> <i class="fas fa-envelope"></i>
+                <a href="mailto:nrenteria2331@gmail.com", style = "text-transform:lowercase;"> nrenteria2331@gmail.com </a><h3>
+            
+            <h3> <i class="fas fa-phone"></i> (719) 433-3548 </h3>
+            <h3><i class="fa-brands fa-linkedin"></i></h3>
+            <h3 > <i class="fas fa-map-marker-alt"></i> San Antonio, Texas - 78247 </h3>
+        </div>
+
+    </div>
+
+    <form action = "https://formsubmit.co/cf579f8044010551433eef34082e427e" method="POST">
+        <input type="hidden" name="_subject" value="New email">
+        <input type="text" placeholder="name" name="name" class="box">
+        <input type="email" placeholder="email" name="email" class="box" required>
+        <input type="text" placeholder="project" name="project" class="box">
+        <textarea name="message" id="" cols="30" rows="10" class="box message" placeholder="message" ></textarea>
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_autoresponse" value="your custom message">
+        <button type="submit" class="btn"> send <i class="fas fa-paper-plane"></i> </button>
+
+    </form>
+
+</div>
+
+</section>
+
+<!-- contact section ends -->
+
+
+<!-- scroll top button  -->
+
+<a href="#home" class="top">
+    <img src="images/scroll-top-img.png" alt="">
+</a>
+
+<!-- jquery cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!-- custom js file link  -->
+<script src="script.js"></script>
+
+
+</script>
+
+</body>
+</html>
