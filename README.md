@@ -36,7 +36,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
     
 <img src="https://github.com/namron2331/namron2331/blob/ffd1936e3237dd7aa5e2ff90d030bdfaa1f32f50/images/autopsy.svg" width="150" height="50" alt="" />
 <img src="https://github.com/namron2331/namron2331/blob/e27d042dcccdc34ed719e01b2ff731ca3fa12211/images/ACCESS-DATA-FinalCandidate-Logo.png" width="175" height="50" alt="" />
-<img src="https://github.com/namron2331/namron2331/blob/33ef52606e404da6368fe4307e6616b8e3e61d69/images/stego.png" width="150" height="50" alt="" />
+<img src="https://github.com/namron2331/namron2331/blob/33ef52606e404da6368fe4307e6616b8e3e61d69/images/stego.png" width="50" height="50" alt="" />
 <img src="https://github.com/namron2331/namron2331/blob/ffd1936e3237dd7aa5e2ff90d030bdfaa1f32f50/images/autopsy.svg" width="150" height="50" alt="" />
 
 </div>
