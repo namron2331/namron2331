@@ -76,6 +76,9 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
     <a href="https://coursera.org/share/e6b665c16bd54981c8de5e8b2777b639"><img src="https://img.shields.io/badge/-Google%20IT%20Support%20-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
     <a href="https://coursera.org/share/fcd53852015dcd6b9d3ad0eae9db2b2d"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 
+  [![CompTIA IT Fundamentals](https://img.shields.io/badge/CompTIA-IT%20Fundamentals-FB7B00?style=flat&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/it-fundamentals)
+
+
 </div>
 
 ## Education
