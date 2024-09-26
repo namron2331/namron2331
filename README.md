@@ -1,9 +1,11 @@
 # Hello, I'm Norman
-<a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="norman-renteria" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/norman-renteria?trk=profile-badge">Norman Renteria</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="norman-renteria" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/norman-renteria?trk=profile-badge">Norman Renteria</a></div>
               
+
+</a>             
               
 
 Welcome! Here you'll find a collection of my projects, skills, and experience in the field of cybersecurity. This portfolio showcases my knowledge and hands-on experience in various areas such as network security, incident response, ethical hacking, and more.
