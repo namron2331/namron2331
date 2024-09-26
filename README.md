@@ -82,6 +82,9 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
   [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat&logo=Google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
 
+  [![Google IT Support Certificate](https://img.shields.io/badge/Google-IT%20Support%20Certificate-4285F4?style=flat&logo=Google&logoColor=white)](https://grow.google/certificates/it-support/)
+
+
 
 
 
