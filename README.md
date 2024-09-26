@@ -1,5 +1,4 @@
 # Hello, I'm Norman
-<a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
 
 <a href="https://linkedin.com/in/norman-renteria-95a9a618b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
