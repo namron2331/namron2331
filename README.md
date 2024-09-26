@@ -80,6 +80,9 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
   [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FB7B00?style=flat&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/a)
 
+  [![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat&logo=Google&logoColor=white)](https://grow.google/certificates/cybersecurity/)
+
+
 
 
 </div>
