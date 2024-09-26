@@ -40,16 +40,11 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 </div>
 
 ### Forensic
-<div>
-    
+<div>   
 <a href="https://www.autopsy.com/"><img src="https://github.com/namron2331/namron2331/blob/ffd1936e3237dd7aa5e2ff90d030bdfaa1f32f50/images/autopsy.svg" width="150" height="50" alt="" />
 <a href="https://accessdata-ftk-imager.software.informer.com/"><img src="https://github.com/namron2331/namron2331/blob/e27d042dcccdc34ed719e01b2ff731ca3fa12211/images/ACCESS-DATA-FinalCandidate-Logo.png" width="175" height="50" alt="" />
 <a href="https://quick-stego.software.informer.com/1.2/#google_vignette"><img src="https://github.com/namron2331/namron2331/blob/33ef52606e404da6368fe4307e6616b8e3e61d69/images/stego.png" width="50" height="50" alt="" />
 <a href="https://hxd.en.lo4d.com/windows"><img src="https://github.com/namron2331/namron2331/blob/36c5a02cbc901bbc640a1f6c49b915985a4d8aa5/images/large.png" width="50" height="50" alt="" />
-
-[![Autopsy](https://img.shields.io/badge/Autopsy-Digital%20Forensics-FF0000?style=flat&logo=Autopsy&logoColor=gray)](https://www.sleuthkit.org/autopsy/)
-
-
 </div>
 
 ### NIDS (Network Intrusion Detection System)
