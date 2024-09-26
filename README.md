@@ -78,6 +78,9 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
   [![CompTIA IT Fundamentals](https://img.shields.io/badge/CompTIA-IT%20Fundamentals-FB7B00?style=flat&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/it-fundamentals)
 
+  [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FB7B00?style=flat&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/a)
+
+
 
 </div>
 
