@@ -83,8 +83,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 ## Education
 <div>
     <p>The University of Texas at San Antonio</p>
-    <p>B.B.A. in Cyber Security</p>
-
+  
   [![UTSA BBA in Cybersecurity](https://img.shields.io/badge/UTSA-BBA%20in%20Cybersecurity-FB7B00?style=flat&logo=UTSA&logoColor=003B5C)](https://www.utsa.edu/academics/degree-programs/undergraduate/cybersecurity.html)
 
     
