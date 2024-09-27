@@ -84,7 +84,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 <div>
     <p>The University of Texas at San Antonio</p>
   
-  [![UTSA BBA in Cybersecurity](https://img.shields.io/badge/UTSA-BBA%20in%20Cybersecurity-FB7B00?style=flat&logo=UTSA&logoColor=003B5C)](https://www.utsa.edu/academics/degree-programs/undergraduate/cybersecurity.html)
+  [![UTSA BBA in Cybersecurity](https://img.shields.io/badge/UTSA-BBA%20in%20Cybersecurity-FB7B00?style=flat&logo=UTSA&logoColor=003B5C)](https://www.parchment.com/u/award/fe72403c8355645e5476d4850ab9ecec)
 
     
         
