@@ -72,7 +72,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
  
   [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=flat&logo=CompTIA&logoColor=gray)](https://www.comptia.org/certifications/a)
   
-  [![CompTIA IT Fundamentals](https://img.shields.io/badge/CompTIA-IT%20Fundamentals-FF0000?style=flat&logo=CompTIA&logoColor=gray)](https://www.comptia.org/certifications/it-fundamentals)
+  [![CompTIA IT Fundamentals](https://img.shields.io/badge/CompTIA-IT%20Fundamentals-FF0000?style=flat&logo=CompTIA&logoColor=gray)](https://www.credly.com/badges/bd53c9e2-fa81-407b-8747-6c739a4f575d/public_url)
 
   [![Google IT Support Certificate](https://img.shields.io/badge/Google-IT%20Support%20Certificate-4285F4?style=flat&logo=Google&logoColor=white)](https://coursera.org/share/e6b665c16bd54981c8de5e8b2777b639)
 
