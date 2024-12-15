@@ -70,7 +70,7 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 ## Certifications
 <div>
  
-  [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=flat&logo=CompTIA&logoColor=gray)](https://www.comptia.org/certifications/a)
+  [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=flat&logo=CompTIA&logoColor=gray)](https://www.credly.com/badges/a0fce6a6-2e48-40e6-9c38-fd901383abcb)
   
   [![CompTIA IT Fundamentals](https://img.shields.io/badge/CompTIA-IT%20Fundamentals-FF0000?style=flat&logo=CompTIA&logoColor=gray)](https://www.credly.com/badges/bd53c9e2-fa81-407b-8747-6c739a4f575d/public_url)
 
