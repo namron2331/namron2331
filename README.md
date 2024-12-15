@@ -80,11 +80,6 @@ To apply my passion for cybersecurity and expertise in threat detection and inci
 
 </div>
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a0fce6a6-2e48-40e6-9c38-fd901383abcb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
 ## Education
 <div>
     <p>The University of Texas at San Antonio</p>
